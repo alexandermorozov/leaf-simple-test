@@ -1,0 +1,9 @@
+[package]
+authors = ["Alexander Morozov <etesial@gmail.com>"]
+name = "leaf-simple-test"
+version = "0.1.0"
+
+[dependencies]
+collenchyma = "*"
+leaf = "*"
+rand = "*"
